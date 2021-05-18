@@ -12,4 +12,4 @@ Respective emails:
 Ivor Kakuk: ivor.kakuk@fer.hr
 
 
-Leonardo Max Golušin: leonardo.max.golusin@fer.hr
+    Leonardo Max Golušin: leonardo.max.golusin@fer.hr
