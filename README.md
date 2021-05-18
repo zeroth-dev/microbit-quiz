@@ -11,6 +11,6 @@ The programms were written by Ivor Kakuk and Leonardo Max Golušin.
 Respective emails:
 
 
-    Ivor Kakuk: ivor.kakuk@fer.hr
+    Ivor Kakuk: ivor.kakuk@gmail.com
     
-    Leonardo Max Golušin: leonardo.max.golusin@fer.hr
+    Leonardo Max Golušin: leonardo.max.golusin@gmail.hr
